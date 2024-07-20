@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 😄 Pronouns: she/her/hers
+- 🔭 I’m currently working on building more personal projects that show my knowledge of vanilla Javascript/HTML/CSS, as well as RESTful APIs, testing, security, accessibility, performance and Github workflows.
+- 🌱 I’m currently learning Jest, Express, advanced Git, and TDD.
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/winona-murphy-840048170/)
+- ⚡ Fun facts:
+  - I played violin for over 10 years
+  - My current favorite library is TailwindCSS
+  - I watch Kdramas in my free time
+
 <!--
 **wmurphy-collabstar/wmurphy-collabstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
