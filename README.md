@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GithubIntroImg](https://github.com/user-attachments/assets/fa8a9eda-dbdc-4cb2-b05b-7f13131296fb)](www.github.com/wmurphy-collabstar)
 
 - 😄 Pronouns: she/her/hers
 - 🔭 I’m currently working on building more personal projects that show my knowledge of vanilla Javascript/HTML/CSS, as well as RESTful APIs, testing, security, accessibility, performance and Github workflows.
