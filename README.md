@@ -51,6 +51,11 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>  
 </p>
 
+<h3 align="left">Github Stats:</h3>
+
+[![Winona's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmurphy-collabstar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wmurphy-collabstar&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
