@@ -58,9 +58,13 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=wmurphy-collabstar&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/winona-murphy-840048170/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://x.com/wviolinm" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100009450551735" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@winonamurphy8229" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<p align="left"> <!-- 0077b5 -->
+  <a href="https://www.linkedin.com/in/winona-murphy-840048170/" target="_blank"><img align="center" src="https://simpleicons.vercel.app/linkedin/0a66c2" alt="linkedin" height="30" width="40"/></a>
+  <!-- <a href="https://www.linkedin.com/in/winona-murphy-840048170/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color: blue;"/></a> -->
+  <!-- <a href="https://x.com/wviolinm" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
+  <a href="https://x.com/wviolinm" target="_blank" ><img align="center" src="https://simpleicons.vercel.app/x/000000" alt="twitter" height="30" width="40" /></a>
+  <!-- <a href="https://www.facebook.com/profile.php?id=100009450551735" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
+  <a href="https://www.facebook.com/profile.php?id=100009450551735" target="_blank"><img align="center" src="https://simpleicons.vercel.app/facebook/0866ff" alt="facebook" height="30" width="40" /></a>
+  <!-- <a href="https://www.youtube.com/@winonamurphy8229" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
+  <a href="https://www.youtube.com/@winonamurphy8229" target="_blank"><img align="center" src="https://simpleicons.vercel.app/youtube/f00" alt="youtube" height="30" width="40" /></a>
 </p>
