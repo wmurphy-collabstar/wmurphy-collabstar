@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://https://www.javascript.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &emsp;
   <a href="https://www.python.org" target="_blank"> 
@@ -51,14 +51,30 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>  
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="center">Github Stats:</h3>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wmurphy-collabstar&show_icons=true&theme=radical"/>
+</a>
+<kbd></kbd>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmurphy-collabstar&layout=donut"/>
+</a>
+</div>
+<kbd></kbd>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=wmurphy-collabstar&margin-w=15&margin-h=15&theme=juicyfresh&column=4&row=2"/>
+</a>
+<kbd></kbd>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=wmurphy-collabstar"/>
+</a>
+</div>
 
-[![Winona's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmurphy-collabstar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wmurphy-collabstar&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <!-- 0077b5 -->
+<div align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center"> <!-- 0077b5 -->
   <a href="https://www.linkedin.com/in/winona-murphy-840048170/" target="_blank"><img align="center" src="https://simpleicons.vercel.app/linkedin/0a66c2" alt="linkedin" height="30" width="40"/></a>
   <!-- <a href="https://www.linkedin.com/in/winona-murphy-840048170/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color: blue;"/></a> -->
   <!-- <a href="https://x.com/wviolinm" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
@@ -68,3 +84,4 @@ Here are some ideas to get you started:
   <!-- <a href="https://www.youtube.com/@winonamurphy8229" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
   <a href="https://www.youtube.com/@winonamurphy8229" target="_blank"><img align="center" src="https://simpleicons.vercel.app/youtube/f00" alt="youtube" height="30" width="40" /></a>
 </p>
+</div>
