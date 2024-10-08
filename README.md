@@ -67,6 +67,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=wmurphy-collabstar&margin-w=15&margin-h=15&theme=juicyfresh&column=4&row=2"/>
 </a>
 <kbd></kbd>
+<kbd></kbd>
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=wmurphy-collabstar"/>
 </a>
