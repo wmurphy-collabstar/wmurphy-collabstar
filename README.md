@@ -1,4 +1,9 @@
 [![GithubIntroImg](https://github.com/user-attachments/assets/fa8a9eda-dbdc-4cb2-b05b-7f13131296fb)](www.github.com/wmurphy-collabstar)
+<br>
+<br>
+<a href="https://www.codewars.com/users/wviolinm">
+  <img alt="Code Wars badge, showing Winona's level is Kata 5, with 401 points from challenges" src="https://www.codewars.com/users/wviolinm/badges/small"/>
+</a>
 
 - 😄 Pronouns: she/her/hers
 - 🔭 I’m currently working on building more personal projects that show my knowledge of vanilla Javascript/HTML/CSS, as well as RESTful APIs, testing, security, accessibility, performance and Github workflows.
